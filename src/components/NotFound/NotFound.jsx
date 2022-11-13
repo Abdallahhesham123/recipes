@@ -4,7 +4,7 @@ export default function NotFound() {
   return (
     <div className='center-flex'>
   
-    <img src={img} alt="notfound"  className='w-100 h-100'/>
+    <img src={img} alt="notfound"  className='w-100 vh-100'/>
    
       
     </div>
