@@ -25,7 +25,7 @@
     margin-bottom: 30px;
 }
 
- li:hover{
+.sidebar  .list  li:hover{
     background-color: #03a9f4;
     color: #fff;
 }

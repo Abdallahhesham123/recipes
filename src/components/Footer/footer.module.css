@@ -2,7 +2,7 @@
     text-align: center;
     font-size: 1.5rem;
     color: #fff;
-    background: #244d4d;
+    background: linear-gradient(45deg, #43cea2 , #185a9d) !important;
     padding: 10px 0;
   }
   
